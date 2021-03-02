@@ -86,7 +86,8 @@
 					</footer>
 
 			</div>
-
+<li><a href="about.php">
+                            <img border="0" alt="Translation" src="images/dflag.png" width="100" height="50"></li>
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
