@@ -11,17 +11,17 @@ require "navbar.php";
 								<img src="images/vistacars.JPG" class="img-fluid" alt="" />
 							</div>
 
-							<h2 class="m-n"><i class="fa fa-question-circle"></i>Welke automerken en kleuren verkopen jullie?</h2>
-							<p>Wij zijn dealer van het merk Toyota en Lexus. Maar als occassions verkopen we alles. Dus je kunt alle merken inruilen bij ons.</p>
+							<h2 class="m-n"><i class="fa fa-question-circle"></i>Which cars brands and colors do you sell?</h2>
+							<p>We are dealer of the Toyota and Lexus brands. But as occassions we sell everything. So you can trade in all brands with us.</p>
 
-							<h2 class="m-n"><i class="fa fa-question-circle"></i>Kan ik een gratis testrit rijden?</h2>
-							<p>Ja u kunt een afspraak maken op info@vistacars.nl of neem contact met ons op via uw telefoon +31 (0)6 00 11 55 11</p>
+							<h2 class="m-n"><i class="fa fa-question-circle"></i>Can i ride a free testride?</h2>
+							<p>Yes, you can make an appointment at info@vistacars.nl or contact us via your cellphone +31 (0) 6 00 11 55 11</p>
 
-							<h2 class="m-n"><i class="fa fa-question-circle"></i>Waar kan ik jullie bezoeken?</h2>
-							<p>Wij hebben momenteel 3 locaties in Maastricht, Sittard en Heerlen.</p>
+							<h2 class="m-n"><i class="fa fa-question-circle"></i>Where can i visit you?</h2>
+							<p>We currently have 3 locations in Maastricht, Sittard and Heerlen.</p>
 
-							<h2 class="m-n"><i class="fa fa-question-circle"></i>Hoe kan ik inloggen</h2>
-							<p>U kunt op de 3 streepjes klikken rechtsboven op uw scherm en dan op "login" klikken.</p>
+							<h2 class="m-n"><i class="fa fa-question-circle"></i>How can i log in?</h2>
+							<p>You can click on the 3 lines at the top right of your screen and then click on "login".</p>
 
 
 						</div>
@@ -41,8 +41,8 @@ require "navbar.php";
 
 							<ul class="copyright">
 								<li>Copyright © 2021 Company Vistacars</li>
-								<li><a href="faq_eng.php">
-                            <img border="0" alt="Translation" src="images/brflag.webp" width="100" height="50"></li>
+								<li><a href="team.html">
+                            <img border="0" alt="Translation" src="images/dflag.png" width="100" height="50"></li>
 							</ul>
 						</div>
 					</footer>
