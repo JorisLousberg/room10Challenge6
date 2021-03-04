@@ -115,7 +115,7 @@ require "navbar.php";
 								</article>
 							</section>
 
-							<p class="text-center"><a href="cars.html">Bekijk Auto's &nbsp;<i class="fa fa-long-arrow-right"></i></a></p>
+							<p class="text-center"><a href="cars.php">Bekijk Auto's &nbsp;<i class="fa fa-long-arrow-right"></i></a></p>
 							
 							<br>
 
