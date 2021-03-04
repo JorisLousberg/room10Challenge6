@@ -1,3 +1,6 @@
+<head>
+<link rel="stylesheet" href="menustyle.css">
+</head>
 <?php
 require "navbar.php";
 ?>
@@ -6,7 +9,10 @@ require "navbar.php";
 					<div id="main">
 						<div class="inner">
 							<h1>Cars</h1>
-
+							<?php 
+        						include_once('includes/connection.inc.php'); //connectie met DB maken
+								include_once('includes/select.inc.php');
+							?>
 							<div class="image main">
 								<img src="images/vistacars.JPG" class="img-fluid" alt="" />
 							</div>

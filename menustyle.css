@@ -1,0 +1,29 @@
+
+.Container{
+    background-color: transparent;
+    height: 150px;
+    width: 426px ;
+    border: solid 1px black;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Carimage{
+    float: right;
+    height: fit-content;
+    width: fit-content;
+}
+
+.Carimage2{
+    margin: 0%;
+    height: 130px;
+    width: 192px;
+    
+}
+.Carinfo{
+    height: 100px;
+    width: 213px;
+    float: left;
+    text-align: left;
+}
