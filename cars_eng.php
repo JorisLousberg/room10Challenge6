@@ -20,7 +20,7 @@ require "navbar.php";
 									<a href="car-details.html">
 										<h2>Toyota Prius 2011</h2>
 										
-										<p><del>€11 999</del> <strong>€11 779</strong></p>
+										<p><del>$11 999</del> <strong>$11 779</strong></p>
 
 										<p>
 		                                	<i class="fa fa-dashboard"></i> 130 000km &nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,7 +36,7 @@ require "navbar.php";
 									<a href="car-details.html">
 										<h2>Toyota C H-R Hybrid</h2>
 										
-										<p><del>€11 999</del> <strong>€11 779</strong></p>
+										<p><del>$11 999</del> <strong>$11 779</strong></p>
 
 										<p>
 		                                	<i class="fa fa-dashboard"></i> 130 000km &nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,7 +52,7 @@ require "navbar.php";
 									<a href="car-details.html">
 										<h2>Lexus UX 250h F Sport</h2>
 										
-										<p><del>€11 999</del> <strong>€11 779</strong></p>
+										<p><del>$11 999</del> <strong>$11 779</strong></p>
 
 										<p>
 		                                	<i class="fa fa-dashboard"></i> 130 000km &nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,7 +69,7 @@ require "navbar.php";
 									<a href="car-details.html">
 										<h2>Lexus Gs 350</h2>
 										
-										<p><del>€11 999</del> <strong>€11 779</strong></p>
+										<p><del>$11 999</del> <strong>$11 779</strong></p>
 
 										<p>
 		                                	<i class="fa fa-dashboard"></i> 130 000km &nbsp;&nbsp;&nbsp;&nbsp;

@@ -49,7 +49,11 @@
 								<li><a href="faq.php">FAQ</a></li>
 							</ul>
 						</li>
-						<li><a href="contact.php">Contact Ons</a></li>
+						<li><a href="contact.php">Contact</a></li>
+						<li><a href="team_eng.html">
+                            <img border="0" alt="Translation" src="images/brflag.webp" width="100" height="50"></li>
+							<li><a href="team.html">
+                            <img border="0" alt="Translation" src="images/dflag.png" width="100" height="50"></li>
 					</ul>
 					l
 				</nav>

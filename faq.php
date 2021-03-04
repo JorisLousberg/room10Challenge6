@@ -44,7 +44,7 @@ require "navbar.php";
 							</section>
 
 							<ul class="copyright">
-								<li>Copyright © 2020 Company VistaEats</li>
+								<li>Copyright © 2021 Company VistaEats</li>
 							</ul>
 						</div>
 					</footer>
