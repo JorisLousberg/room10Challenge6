@@ -1,5 +1,8 @@
 
+<<<<<<< Updated upstream
 <div style="background-image: url('../vistacars.jpg');">
+=======
+>>>>>>> Stashed changes
 
 <div class="login-wrap">
 	<div class="login-html">
