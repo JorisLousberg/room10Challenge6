@@ -1,6 +1,5 @@
-<?php
-require "navbar.php";
-?>
+
+<div style="background-image: url('../vistacars.jpg');">
 
 <div class="login-wrap">
 	<div class="login-html">
@@ -48,6 +47,10 @@ require "navbar.php";
 	</div>
 </div>
 <style>
+body {
+ background-image: url("images/Supercargarage.jpg") ;
+ background-color: #cccccc;
+}
 body{
 	margin:0;
 	color:#6a6f8c;
