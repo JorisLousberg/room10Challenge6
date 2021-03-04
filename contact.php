@@ -17,7 +17,7 @@
 						<div class="inner">
 
 							<!-- Logo -->
-								<a href="index.html" class="logo">
+								<a href="index.php" class="logo">
 									<span class="fa fa-car"></span> <span class="title">VistaCars</span>
 								</a>
 
@@ -35,20 +35,20 @@
 					<nav id="menu">
 						<h2>Menu</h2>
 						<ul>
-							<li><a href="index.html">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 
-							<li><a href="cars.html">Cars</a></li>
+							<li><a href="cars.php">Cars</a></li>
 
 							<li>
 								<a href="#" class="dropdown-toggle">Over Ons</a>
 
 								<ul>
-									<li><a href="about.html">Over Ons</a></li>
-									<li><a href="team.html">Team</a></li>
-									<li><a href="faq.html">FAQ</a></li>
+									<li><a href="about.php">Over Ons</a></li>
+									<li><a href="team.php">Team</a></li>
+									<li><a href="faq.php">FAQ</a></li>
 								</ul>
 							</li>
-							<li><a href="contact.html" class="active">Contact Ons</a></li>
+							<li><a href="contact.php" class="active">Contact Ons</a></li>
 						</ul>
 					</nav>
 

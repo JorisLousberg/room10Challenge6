@@ -17,7 +17,7 @@ require "navbar.php";
 									<span class="image">
 										<img src="images/toyota-prius-21091874_12972403_284.jpg" alt="" />
 									</span>
-									<a href="car-details.html">
+									<a href="car-details.php">
 										<h2>Toyota Prius 2011</h2>
 										
 										<p><del>$11 999</del> <strong>$11 779</strong></p>
@@ -33,7 +33,7 @@ require "navbar.php";
 									<span class="image">
 										<img src="images/Toyotachr.jpg" alt="" />
 									</span>
-									<a href="car-details.html">
+									<a href="car-details.php">
 										<h2>Toyota C H-R Hybrid</h2>
 										
 										<p><del>$11 999</del> <strong>$11 779</strong></p>
@@ -49,7 +49,7 @@ require "navbar.php";
 									<span class="image">
 										<img src="images/LexusUX250hFSport.jpg" alt="" />
 									</span>
-									<a href="car-details.html">
+									<a href="car-details.php">
 										<h2>Lexus UX 250h F Sport</h2>
 										
 										<p><del>$11 999</del> <strong>$11 779</strong></p>
@@ -66,7 +66,7 @@ require "navbar.php";
 									<span class="image">
 										<img src="images/LexusGS350.jpg" alt="" />
 									</span>
-									<a href="car-details.html">
+									<a href="car-details.php">
 										<h2>Lexus Gs 350</h2>
 										
 										<p><del>$11 999</del> <strong>$11 779</strong></p>
