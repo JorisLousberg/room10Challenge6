@@ -94,7 +94,7 @@ require "navbar.php";
 
 							<ul class="copyright">
 								<li>Copyright © 2020 VistaCars </li>
-								<li><a href="team_eng.html">
+								<li><a href="cars_eng.php">
                             <img border="0" alt="Translation" src="images/brflag.webp" width="100" height="50"></li>
 							</ul>
 						</div>
