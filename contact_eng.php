@@ -48,16 +48,16 @@
 									<li><a href="faq.html">FAQ</a></li>
 								</ul>
 							</li>
-							<li><a href="contact.html" class="active">Contact Ons</a></li>
+							<li><a href="contact.html" class="active">Contact Us</a></li>
 						</ul>
 					</nav>
 
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-							<h1>Contact Ons</h1>
+							<h1>Contact Us</h1>
 							<span class="image main"><img src="images/Knipsel.JPG" alt="" /></span>
-							<p>Je kunt ons bereiken via de mail die hieronder staat, het telefoonnummer bellen of op de adressen die hier boven op de map staan. Je kan natuurlijk ook en bericht sturen, dat kan hieronder!</p>
+							<p>You can reach us via the email below, call the telephone number or at the addresses listed above on the folder. You can of course also send a message, you can do that below!</p>
 						</div>
 					</div>
 
@@ -103,7 +103,7 @@
 									<li><span class="fa fa-map-pin"></span> Sibemaweg 20, 6224 DC Maastricht</li>
 								</ul>
 
-								<h2>Volg Ons</h2>
+								<h2>Follow Us</h2>
 
 								<ul class="icons">
 									<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
